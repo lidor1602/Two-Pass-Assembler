@@ -75,6 +75,5 @@ make clean
 
 For collaboration or inquiries, please reach out:
 
-- Email: [your.email@example.com]  
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [Your GitHub URL]
+- Email: Khsur10@gmail.com  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lidor-jacobshtamm/)
