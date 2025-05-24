@@ -24,7 +24,7 @@ This project demonstrates expertise in systems programming, compiler constructio
 | Directory | Description                     |
 |-----------|---------------------------------|
 | `Src`     | All C source files              |
-| `Hdear`   | Header files (`.h`)             |
+| `Header`   | Header files (`.h`)             |
 | Root      | Makefile and README.md          |
 
 ---
